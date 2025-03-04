@@ -1,0 +1,135 @@
+[
+    {
+        "nome_restaurante": "EduardoPizzas",
+        "telefone": "+00 00 00000000",
+        "cardapio": {
+            "1": {
+                "nome": "Calabresa Suprema",
+                "grupo": "Pizzas Salgadas",
+                "preco": {
+                    "30cm": 35.00,
+                    "45cm": 45.00
+                }
+            },
+            "2": {
+                "nome": "Frango com Catupiry",
+                "grupo": "Pizzas Salgadas",
+                "preco": {
+                    "30cm": 38.00,
+                    "45cm": 48.00
+                }
+            },
+            "3": {
+                "nome": "Carne Seca",
+                "grupo": "Pizzas Salgadas",
+                "preco": {
+                    "30cm": 40.00,
+                    "45cm": 50.00
+                }
+            },
+            "4": {
+                "nome": "Marguerita",
+                "grupo": "Pizzas Salgadas",
+                "preco": {
+                    "30cm": 36.00,
+                    "45cm": 46.00
+                }
+            },
+            "5": {
+                "nome": "Pepperoni",
+                "grupo": "Pizzas Salgadas",
+                "preco": {
+                    "30cm": 42.00,
+                    "45cm": 54.00
+                }
+            },
+            "6": {
+                "nome": "Frango com Bacon",
+                "grupo": "Pizzas Salgadas",
+                "preco": {
+                    "30cm": 39.00,
+                    "45cm": 49.00
+                }
+            },
+            "7": {
+                "nome": "Chocolate com Morango",
+                "grupo": "Pizzas Doces",
+                "preco": {
+                    "30cm": 42.00,
+                    "45cm": 55.00
+                }
+            },
+            "8": {
+                "nome": "Banana com Canela",
+                "grupo": "Pizzas Doces",
+                "preco": {
+                    "30cm": 38.00,
+                    "45cm": 48.00
+                }
+            },
+            "9": {
+                "nome": "Romeu e Julieta",
+                "grupo": "Pizzas Doces",
+                "preco": {
+                    "30cm": 40.00,
+                    "45cm": 52.00
+                }
+            },
+            "10": {
+                "nome": "Esfiha de Carne",
+                "grupo": "Esfihas Salgadas",
+                "preco": 12.00
+            },
+            "11": {
+                "nome": "Esfiha de Frango",
+                "grupo": "Esfihas Salgadas",
+                "preco": 12.00
+            },
+            "12": {
+                "nome": "Esfiha de Queijo",
+                "grupo": "Esfihas Salgadas",
+                "preco": 11.00
+            },
+            "13": {
+                "nome": "Esfiha de Calabresa",
+                "grupo": "Esfihas Salgadas",
+                "preco": 13.00
+            },
+            "14": {
+                "nome": "Esfiha de Chocolate",
+                "grupo": "Esfihas Doces",
+                "preco": 14.00
+            },
+            "15": {
+                "nome": "Esfiha de Doce de Leite",
+                "grupo": "Esfihas Doces",
+                "preco": 14.00
+            },
+            "16": {
+                "nome": "Cerveja Lata",
+                "grupo": "Bebidas",
+                "preco": 6.50
+            },
+            "17": {
+                "nome": "Refrigerante Lata",
+                "grupo": "Bebidas",
+                "preco": 5.00
+            },
+            "18": {
+                "nome": "Suco Natural",
+                "grupo": "Bebidas",
+                "preco": 7.00
+            },
+            "19": {
+                "nome": "Água Mineral",
+                "grupo": "Bebidas",
+                "preco": 3.00
+            },
+            "20": {
+                "nome": "Água de Coco",
+                "grupo": "Bebidas",
+                "preco": 7.50
+            }
+        }
+    }
+]
