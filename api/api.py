@@ -26,4 +26,4 @@ def buscar_cardapio(nome : str):
         if restaurante["nome_restaurante"] == nome:
             return restaurante
     else:
-    raise HTTPException(404, detail="Restaurante não encontrado")
+        raise HTTPException(404, detail="Restaurante não encontrado")
