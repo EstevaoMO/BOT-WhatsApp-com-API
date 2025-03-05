@@ -1,4 +1,4 @@
-[
+database = [
     {
         "nome_restaurante": "EduardoPizzas",
         "telefone": "+00 00 00000000",
